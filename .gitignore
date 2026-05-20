@@ -1,0 +1,27 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.ap_
+*.aab
+
+# Proguard files
+proguard-rules.pro
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+outputs/
+
+# Keystore files
+*.jks
+*.keystore
